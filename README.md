@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ilya M. Afanasyev, Ph.D.
 
-<!--
-**afanasyspb/afanasyspb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an expert in **Mobile Robotics, Computer Vision, and Autonomous Systems**.
 
-Here are some ideas to get you started:
+### 🌐 Personal Portfolio
+For a complete overview of my academic research, industrial projects, and teaching experience, please visit my official website:
+👉 **[afanasyspb.github.io](https://afanasyspb.github.io/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Status
+* **Expert** at Chebyshev Research Center (Huawei)
+* **Adjunct Associate Professor** at Innopolis University & LETI
+
+### 🛠 Tech Stack
+`Python` `MATLAB` `OpenCV` `SLAM` `Sensor Fusion`
