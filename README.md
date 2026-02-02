@@ -11,8 +11,8 @@ For a complete overview of my academic research, industrial projects, and teachi
 * **Adjunct Associate Professor** at Innopolis University & LETI
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-Expertise-blue?style=for-the-badge)
-![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-Expertise-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23660033.svg?style=flat-square&logo=mathworks&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%232E7D32.svg?style=flat-square&logo=opencv&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-Expertise-blue?style=flat-square)
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-Expertise-blue?style=flat-square)
