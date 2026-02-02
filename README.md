@@ -8,7 +8,7 @@ For a complete overview of my academic research, industrial projects, and teachi
 
 ### 🔬 Current Status
 * **Expert** at Chebyshev Research Center (Huawei)
-* **Adjunct Associate Professor** at Innopolis University & LETI
+* **Adjunct Associate Professor** at Innopolis University & LETI University
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
