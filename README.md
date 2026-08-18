@@ -10,7 +10,7 @@ For a complete overview of my academic research, industrial projects, and teachi
 * **Key Project Engineer & Senior R&D Expert** (long-term external contractor): engaged via IT consulting companies (Ventra, later Coleman Tech) to deliver research projects and technology expertise for their client, the Chebyshev Research Center (Huawei R&D, St. Petersburg). Always an external expert, never a Huawei employee.
 * **Adjunct Associate Professor (Docent)** at Innopolis University: Center for Top-Tier Educational Programs in AI.
 
-My work is fundamental and civilian in character, and the results are published in the open literature ![Google Scholar](http://scholar.google.it/citations?user=Afanasyev&user=Ogv_bdYAAAAJ).
+My work is fundamental and civilian in character, and the results are published in the open literature [Google Scholar](http://scholar.google.it/citations?user=Afanasyev&user=Ogv_bdYAAAAJ).
 
 ### 🎯 Current Research Focus
 * **Geometric (Clifford) Algebra** for robotics: dual-quaternion geometric observers on SE(3) for 6-DoF state estimation, conformal geometric algebra for scene representation
