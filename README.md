@@ -7,7 +7,7 @@ For a complete overview of my academic research, industrial projects, and teachi
 👉 **[afanasyspb.github.io](https://afanasyspb.github.io/)**
 
 ### 🔬 Current Status
-* **Key Project Engineer & Senior R&D Expert** (long-term external contractor): engaged via IT consulting companies (Ventra, later Coleman Tech) to deliver research projects and technology expertise for their client, the Chebyshev Research Center (Huawei R&D, St. Petersburg). Always an external expert, never a Huawei employee.
+* **Key Project Engineer & Senior R&D Expert** (long-term external contractor): engaged via IT consulting companies (Ventra/Ventra-IT, later Coleman Tech) to deliver research projects and technology expertise for their client, the Chebyshev Research Center (Huawei R&D, St. Petersburg). Always an external expert, never a Huawei employee.
 * **Adjunct Associate Professor (Docent)** at Innopolis University: Center for Top-Tier Educational Programs in AI.
 
 My work is fundamental and civilian in character, and the results are published in the open literature [Google Scholar](http://scholar.google.it/citations?user=Afanasyev&user=Ogv_bdYAAAAJ).
